@@ -5,7 +5,7 @@ main:
     url: /about/
 main:
   - title: "블로그 방문하기"
-    url: https://devinlife.com/
+    url: https://koreatopguy.github.io/
   - title: "Categories"
     url: /categories/
   - title: "About"
