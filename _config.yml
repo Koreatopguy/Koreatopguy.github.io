@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "승진's 포트폴리오"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "이승진의 코딩 요모조모"
 name                     : "이승진"
 description              : "승진's 포트폴리오 site."
 url                      : "https://Koreatopguy.github.io"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "이승진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "아직은 많이 부족하지만 능숙한 데이터 분석가가 될 때까지의 기록."
+  location         : "Gyeonggi-do, Guri"
+  email            : "jin990502@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
