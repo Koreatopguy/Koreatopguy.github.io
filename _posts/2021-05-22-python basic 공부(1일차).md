@@ -6,7 +6,7 @@ print ("Hello world")
 ```
 
     Hello world
-    
+
 
 # 2. 위 소스 코드를 실행하면 hello world가 동일하게 출력되며 다른 프로그램에서 이 모듈을 불러왔을때 실행되지않음 
 
@@ -18,7 +18,7 @@ if __name__ == "__main__":
 ```
 
     Hello world
-    
+
 
 # 들여쓰기는 하위 레벨의 코드블럭이 나오기전 : 또는 ; 가 나와야 하며, 들여쓰기는 스페이스 바 또는 탭을 활용해야한다.
 
@@ -34,7 +34,7 @@ else:
 ```
 
     1
-    
+
 
 # 같은 레벨의 코드 블록이나 상위레벨의 코드블록의 들여쓰기가 같지않으면 에러가 발생함.
 
@@ -52,7 +52,7 @@ if a == 1:
         print(0)
         ^
     IndentationError: unindent does not match any outer indentation level
-    
+
 
 
 # 예외적으로 1줄짜리 간단한 하위 레벨은 같은 줄로 표현이 가능하다.
@@ -64,7 +64,7 @@ if a == 1: print(1)
 ```
 
     1
-    
+
 
 
 ```python
@@ -74,7 +74,7 @@ if a == 1: print(1); print(0)
 
     1
     0
-    
+
 
 # ;을 붙이지 않아도 동일하게 작동함
 
@@ -103,7 +103,7 @@ print(Friend)
 
     1
     10
-    
+
 
 # for는 예약어 이므로 변수로 지정할 수 없다.
 
@@ -117,7 +117,7 @@ for = 1
         for = 1
             ^
     SyntaxError: invalid syntax
-    
+
 
 
 # 튜플, 리스트 사용, 다중 치환 
@@ -142,7 +142,7 @@ print(year,month)
 ```
 
     2008 12
-    
+
 
 # 0o -  8진수 0x - 16진수 0b - 2진수
 
@@ -219,8 +219,3 @@ bin(38)
     '0b100110'
 
 
-
-
-```python
-
-```
