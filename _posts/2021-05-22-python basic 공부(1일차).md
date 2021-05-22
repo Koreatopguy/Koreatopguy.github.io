@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "Python Basic(1)"
+---
 # 1. Hello world 출력하기
 
 
