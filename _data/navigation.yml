@@ -1,10 +1,7 @@
 main:
   - title: "블로그 방문하기"
     url: https://koreatopguy.github.io/
-  - title: "About"
-    url: /about/
-main:
-  - title: "블로그 방문하기"
-    url: https://koreatopguy.github.io/
   - title: "Categories"
     url: /categories/
+    title: "About"
+    url: /About/
