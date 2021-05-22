@@ -3,5 +3,5 @@ main:
     url: https://koreatopguy.github.io/
   - title: "Categories"
     url: /categories/
-    title: "About"
-    url: /About/
+  - title: "About"
+    url: /about/
