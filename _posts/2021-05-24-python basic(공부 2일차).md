@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Python basic 1일차 (#1.파이썬 개요 및 설치 / 파이썬 함수 ~p.19)"
-description: "파이썬 베이직 1일차 공부한 내용을 코딩을 옮기고 간단한 설명을 덧붙였습니다."
-headline: "파이썬 베이직 1일차"
+title: "Python basic 1,2일차 (#1.파이썬 개요 및 설치 / 파이썬 함수)"
+description: "파이썬 베이직 1,2일차 공부한 내용을 코딩을 옮기고 간단한 설명을 덧붙였습니다."
+headline: "파이썬 베이직 1,2일차"
 categories: [Python basic]
 tags: [python,data science, 데이터 분석, 머신러닝, 빅데이터]
 comments: true
